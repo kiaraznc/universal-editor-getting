@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://main--mysite--kiaraznc.aem.page/"
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/ui#/aem/aem/start.html"
     type: "markup"
     suffix: ".html"
