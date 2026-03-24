@@ -1,2 +1,3 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1MSDaa1A34-gTTVcgkQw7VFUfZjZYzu33
+  /:
+    url: "https://da.live/source/kiaraznc/universal-editor-getting"
