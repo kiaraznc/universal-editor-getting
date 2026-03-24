@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com/ui#/aem/aem/start.html"
+    url: "https://da.live/#/kiaraznc/universal-editor-getting"
     type: "markup"
     suffix: ".html"
