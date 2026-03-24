@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/kiaraznc/universal-editor-getting/main"
-    type: "markup"
+    url: "https://da.live/source/kiaraznc/universal-editor-getting"
+    type: "markup" 
     suffix: ".html"
